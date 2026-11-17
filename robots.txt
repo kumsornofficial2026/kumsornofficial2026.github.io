@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kumsornofficial2026.github.io/kumsorn-legal/sitemap-index.xml
